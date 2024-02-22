@@ -1,0 +1,13 @@
+Enter a valid IPv4 address to receive information with the following functions:
+ - binary
+ - hex
+ - octal
+ - ip_class
+ - boundary (internal or external IP)
+
+You can enable or disable all functions by entering "enable/disable all"
+or you can toggle a selection of functions following "enable/disable".
+
+This program can be terminated by entering "exit". Entering
+
+Entering "help" will bring this message up again while the program is running.
